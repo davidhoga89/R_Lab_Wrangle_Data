@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547091227784.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8B82BAB0",
+    "lastKnownWriteTime" : 1547090771,
+    "last_content_update" : 1547091241779,
+    "path" : "~/Documents/Docs/Data Science/R/Projects/Murders/report.Rmd.R",
+    "project_path" : "report.Rmd.R",
+    "properties" : {
+        "cursorPosition" : "4,23",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
